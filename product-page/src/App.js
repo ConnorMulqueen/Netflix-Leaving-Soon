@@ -10,7 +10,7 @@ function App() {
         <h1>Netflix Leaving Soon</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Show titles soon to be removed from Netflix
+          Browse titles soon to be removed from Netflix
         </p>
 
         <Button variant="contained" href="https://www.buymeacoffee.com/27JYSTw">
