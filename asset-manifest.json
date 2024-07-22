@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Netflix-Leaving-Soon/static/css/main.f8a41213.css",
-    "main.js": "/Netflix-Leaving-Soon/static/js/main.0181ac61.js",
+    "main.css": "/Netflix-Leaving-Soon/static/css/main.5f1c80b8.css",
+    "main.js": "/Netflix-Leaving-Soon/static/js/main.27fdf6ee.js",
     "static/js/453.e64c33d3.chunk.js": "/Netflix-Leaving-Soon/static/js/453.e64c33d3.chunk.js",
     "static/media/icon-high-res-react-color.png": "/Netflix-Leaving-Soon/static/media/icon-high-res-react-color.df392186bdc23489d265.png",
     "static/media/roboto-latin-500-normal.woff2": "/Netflix-Leaving-Soon/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
@@ -61,12 +61,12 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/Netflix-Leaving-Soon/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/Netflix-Leaving-Soon/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/Netflix-Leaving-Soon/index.html",
-    "main.f8a41213.css.map": "/Netflix-Leaving-Soon/static/css/main.f8a41213.css.map",
-    "main.0181ac61.js.map": "/Netflix-Leaving-Soon/static/js/main.0181ac61.js.map",
+    "main.5f1c80b8.css.map": "/Netflix-Leaving-Soon/static/css/main.5f1c80b8.css.map",
+    "main.27fdf6ee.js.map": "/Netflix-Leaving-Soon/static/js/main.27fdf6ee.js.map",
     "453.e64c33d3.chunk.js.map": "/Netflix-Leaving-Soon/static/js/453.e64c33d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8a41213.css",
-    "static/js/main.0181ac61.js"
+    "static/css/main.5f1c80b8.css",
+    "static/js/main.27fdf6ee.js"
   ]
 }
