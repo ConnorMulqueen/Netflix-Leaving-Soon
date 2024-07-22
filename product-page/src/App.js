@@ -14,8 +14,7 @@ function App() {
         </p>
 
         <Button variant="contained" href="https://www.buymeacoffee.com/27JYSTw">
-            Chrome Extension
-        
+            Chrome Extension 
         </Button>
 
 
