@@ -7,20 +7,20 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Netflix Leaving Soon</h1>
+        <h1>Netflix 'Leaving Soon' Extension</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Browse titles soon to be removed from Netflix
         </p>
 
-        <Button variant="contained" href="https://www.buymeacoffee.com/27JYSTw">
-            Chrome Extension 
+        <Button variant="contained">
+            Chrome Extension
         </Button>
 
 
         <div className="button-container">
           <div className="buttons">
-            <Button variant="contained" startIcon={<GitHubIcon />}>GitHub</Button>
+            <Button variant="contained" startIcon={<GitHubIcon />} href="https://github.com/ConnorMulqueen/Netflix-Leaving-Soon/tree/main">GitHub</Button>
           </div>
           <div className="buttons">
             <Button>
