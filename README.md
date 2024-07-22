@@ -4,3 +4,5 @@
 ![leaving_soon](https://github.com/user-attachments/assets/6b852ea7-d4fa-4e16-8b4f-63b664aa051c)
 
 Chrome extension to add a 'leaving soon' titles button to the Netflix navigation bar.
+
+https://connormulqueen.github.io/Netflix-Leaving-Soon/
